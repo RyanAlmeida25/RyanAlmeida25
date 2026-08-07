@@ -238,10 +238,6 @@ root@ryan-iury:~$ cat /sys/objectives/current.log
   <img src="https://raw.githubusercontent.com/RyanAlmeida25/RyanAlmeida25/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
-> **Como ativar a Snake Animation:**  
-> 1. Crie o repositório especial `RyanAlmeida25/RyanAlmeida25`  
-> 2. Adicione o workflow do [platane/snk](https://github.com/Platane/snk)  
-> 3. O SVG será gerado automaticamente em `/output/`
 
 ---
 
